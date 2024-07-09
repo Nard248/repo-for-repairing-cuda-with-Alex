@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: simulation
+Version: 0.1
+Summary: A C++ CUDA Python package
+Author: Your Name
+Author-email: your.email@domain.com

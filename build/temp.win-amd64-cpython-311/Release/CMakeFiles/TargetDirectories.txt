@@ -1,0 +1,3 @@
+C:/Users/meloy/Desktop/pythonProject5/build/temp.win-amd64-cpython-311/Release/CMakeFiles/simulation.dir
+C:/Users/meloy/Desktop/pythonProject5/build/temp.win-amd64-cpython-311/Release/CMakeFiles/ALL_BUILD.dir
+C:/Users/meloy/Desktop/pythonProject5/build/temp.win-amd64-cpython-311/Release/CMakeFiles/ZERO_CHECK.dir

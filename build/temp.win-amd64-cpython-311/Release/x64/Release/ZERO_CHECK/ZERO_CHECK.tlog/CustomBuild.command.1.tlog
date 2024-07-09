@@ -1,0 +1,10 @@
+^C:\USERS\MELOY\DESKTOP\PYTHONPROJECT5\BUILD\TEMP.WIN-AMD64-CPYTHON-311\RELEASE\CMAKEFILES\F8A4462B4FFC53F919540D46D643C9AC\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/meloy/Desktop/pythonProject5 -BC:/Users/meloy/Desktop/pythonProject5/build/temp.win-amd64-cpython-311/Release --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/meloy/Desktop/pythonProject5/build/temp.win-amd64-cpython-311/Release/cuda_python_bindings.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\meloy\Desktop\pythonProject5\build\temp.win-amd64-cpython-311\Release\CMakeFiles\f8a4462b4ffc53f919540d46d643c9ac\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{63BD6B34-1A88-3BD7-A37B-43BD8432569A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

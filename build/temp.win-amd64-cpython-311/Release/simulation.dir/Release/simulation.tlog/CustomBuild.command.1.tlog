@@ -1,0 +1,10 @@
+^C:\USERS\MELOY\DESKTOP\PYTHONPROJECT5\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/meloy/Desktop/pythonProject5 -BC:/Users/meloy/Desktop/pythonProject5/build/temp.win-amd64-cpython-311/Release --check-stamp-file C:/Users/meloy/Desktop/pythonProject5/build/temp.win-amd64-cpython-311/Release/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
